@@ -5,6 +5,7 @@ To Run:
 
 1. Pull this Repo
 2. Create a class in src/test/org/demo called Secret.java that contains
+
        package org.demo;
        public class Secret extends Credentials {
            Secret() {
